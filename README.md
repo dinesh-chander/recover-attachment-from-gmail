@@ -15,4 +15,4 @@
 
 6. Now run : 
   `node recover.js attachment_base64.txt outputfileName.extension`
-7. Make sure the extension of output file is correct, otherwise it won't recover properly.
+7. Make sure the extension of output file is correct, otherwise the attachment won't recover properly.
